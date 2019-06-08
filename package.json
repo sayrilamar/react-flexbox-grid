@@ -42,7 +42,7 @@
     "cpx": "^1.2.1",
     "cross-env": "^5.2.0",
     "css-loader": "^0.28.11",
-    "eslint": "^1.10.1",
+    "eslint": "^5.16.0",
     "eslint-config-airbnb": "^5.0.0",
     "eslint-plugin-react": "^5.2.2",
     "expect": "^24.8.0",
