@@ -58,7 +58,7 @@
     "mocha": "^3.1.2",
     "node-sass": "^3.4.2",
     "phantomjs-prebuilt": "^2.1.14",
-    "postcss-loader": "^0.7.0",
+    "postcss-loader": "^3.0.0",
     "react": "^15.5.4",
     "react-addons-test-utils": "^15.5.1",
     "react-dom": "^15.5.4",
